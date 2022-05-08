@@ -1,0 +1,6 @@
+.lorem-app .container form input[type="number"] {
+    width: 100px;
+}
+.lorem-app .container form input[type="submit"] {
+    width: 50%;
+}
